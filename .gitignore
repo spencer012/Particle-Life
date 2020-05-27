@@ -3,3 +3,27 @@
 ################################################################################
 
 /x64
+/Wallpaper Use
+/SFML-2.5.1
+/Debug
+/.vs
+/sfml-window-s.lib
+/sfml-window-d-2.dll
+/sfml-window-2.dll
+/sfml-system-s.lib
+/sfml-system-d-2.dll
+/sfml-system-2.dll
+/sfml-network-d-2.dll
+/sfml-network-2.dll
+/sfml-main.lib
+/sfml-main-d.lib
+/sfml-graphics-s.lib
+/sfml-graphics-d-2.dll
+/sfml-graphics-2.dll
+/sfml-audio-d-2.dll
+/sfml-audio-2.dll
+/Particle Life.vcxproj.user
+/Particle Life.vcxproj.filters
+/Particle Life.vcxproj
+/Particle Life.sln
+/openal32.dll

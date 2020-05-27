@@ -26,6 +26,8 @@ public:
 
   void PrintParams() const;
 
+  bool lowActivity = false;
+
 private:
   float m_center_x;
   float m_center_y;
